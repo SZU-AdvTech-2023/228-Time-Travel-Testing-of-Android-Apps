@@ -1,0 +1,8 @@
+@inproceedings{REPO228,
+    author = {Dong, Zhen and B\"{o}hme, Marcel and Cojocaru, Lucia and Roychoudhury, Abhik},
+    booktitle = "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+    numpages = "12",
+    pages = "481¨C492",
+    title = "{Time-Travel Testing of Android Apps}",
+    year = "2020"
+}
